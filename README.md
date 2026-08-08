@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+LuSiNa03;Loading+Player+Profile...;Press+START+to+continue" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="./assets/header-game.svg" alt="LuSiNa03 game header" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/runner-game.svg" alt="pixel runner animation" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=000000" />
@@ -29,8 +33,10 @@
 ### 🕹️ SKILL TREE (Tech Stack)
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,mysql,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,github,figma&theme=dark" />
 </p>
+
+> Kalau ada icon yang masih broken pas dibuka di GitHub, biasanya cache dari skillicons.dev — coba refresh (Ctrl+Shift+R) atau tunggu beberapa menit.
 
 ---
 
@@ -53,7 +59,9 @@
   <img src="https://raw.githubusercontent.com/LuSiNa03/LuSiNa03/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </p>
 
-> Ular ini akan "memakan" kotak-kotak kontribusi GitHub-mu secara otomatis, gerak setiap hari lewat GitHub Actions. Lihat langkah setup di bawah.
+> Ular ini akan "memakan" kotak-kotak kontribusi GitHub-mu secara otomatis, gerak setiap hari lewat GitHub Actions.
+>
+> ⚠️ **Gambar ini baru muncul SETELAH** kamu meng-upload `.github/workflows/snake.yml` ke repo dan menjalankan Action-nya minimal 1x (lihat instruksi di bawah). Sebelum itu dijalankan, branch `output` belum ada sehingga gambarnya pasti broken.
 
 ---
 
