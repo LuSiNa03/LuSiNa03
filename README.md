@@ -142,8 +142,10 @@ Aplikasi manajemen bookmark untuk koleksi komik, lengkap dengan laporan struktur
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuSiNa03&theme=radical&no-frame=true&margin-w=10&row=1" />
+  <img src="https://raw.githubusercontent.com/LuSiNa03/LuSiNa03/output/trophy.svg" alt="trophy" />
 </p>
+
+> ⚠️ Sama seperti Snake Game, gambar ini baru muncul setelah workflow `snake.yml` dijalankan (lihat langkah setup di atas).
 
 ---
 
