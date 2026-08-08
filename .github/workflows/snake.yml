@@ -26,8 +26,8 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: dist/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          file: dist/trophy.svg
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: radical
 
       - name: Push snake + trophy output to output branch
